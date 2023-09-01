@@ -1,0 +1,22 @@
+/** CSS LINKS **/
+
+a:link {
+  color: steelblue;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:visited {
+  color: steelblue;
+  text-decoration: none;
+}
+
+a:hover {
+  color: hotpink;
+  text-decoration: none;
+}
+
+a:active {
+  color: navy;
+  text-decoration: none;
+}
