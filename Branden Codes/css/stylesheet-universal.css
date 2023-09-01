@@ -1,0 +1,8 @@
+/** UNIVERSAL PADDING, MARGIN & BORDER SELECTOR**/
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: Varela;
+}
